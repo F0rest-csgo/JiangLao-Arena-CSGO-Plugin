@@ -11,6 +11,7 @@ A CSGO plugin for jianglao arena
 - [ ] FriendlyFIre
 
 - [ ] MVP Card
+- [ ] Test avatar
 
 ## License
 
