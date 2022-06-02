@@ -12,6 +12,7 @@ A CSGO plugin for jianglao arena
 
 - [ ] MVP Card
 - [ ] Test avatar
+- [ ] After match over...
 
 ## License
 
