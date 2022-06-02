@@ -7,12 +7,13 @@ A CSGO plugin for jianglao arena
 ## TODO
 
 - [ ] Knife round
+- [ ] Weapons refresh
 
 - [ ] FriendlyFIre
 
 - [ ] MVP Card
 - [ ] RWS System
-- [ ] Rating2.0 System
+- [.] Rating2.0 System
 - [ ] Test avatar
 - [ ] After match over...
 
