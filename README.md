@@ -11,6 +11,8 @@ A CSGO plugin for jianglao arena
 - [ ] FriendlyFIre
 
 - [ ] MVP Card
+- [ ] RWS System
+- [ ] Rating2.0 System
 - [ ] Test avatar
 - [ ] After match over...
 
