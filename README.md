@@ -2,6 +2,18 @@
 
 A CSGO plugin for jianglao arena
 
+
+
+## TODO
+
+- [ ] Knife round
+
+- [ ] FriendlyFIre
+
+- [ ] MVP Card
+
+- [ ] 
+
 ## License
 
 ```
