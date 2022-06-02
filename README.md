@@ -12,8 +12,6 @@ A CSGO plugin for jianglao arena
 
 - [ ] MVP Card
 
-- [ ] 
-
 ## License
 
 ```
