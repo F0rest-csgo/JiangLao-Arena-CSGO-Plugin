@@ -10,7 +10,7 @@ A CSGO plugin for jianglao arena
 
 - [ ] FriendlyFIre
 
-- [ ] MVP Card
+- [ ] MVP Card(Get MVP Weapon per round)
 
 - [ ] RWS System
 
